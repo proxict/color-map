@@ -1,0 +1,5 @@
+--language=c++
+-std=c++17
+-Iexternal/constexpr-color/include/
+-Wall
+-Wextra
