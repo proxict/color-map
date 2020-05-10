@@ -23,3 +23,5 @@ target_link_libraries(color-map
     PRIVATE constexpr-color
 )
 
+install(TARGETS color-map DESTINATION bin)
+
